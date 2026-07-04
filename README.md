@@ -19,38 +19,37 @@ A classic Brick Breaker game built in Java using Swing and AWT. Move the paddle 
 
 ### Welcome Screen
 
-![Welcome Screen](screenshots/welcome-screen.png)
+![Welcome Screen](screenshots/welcome-screen.PNG)
 
 ---
 
 ### Instruction Screen
 
-![Instruction Screen](screenshots/instruction-screen.png)
+![Instruction Screen](screenshots/instruction-screen.PNG)
 
 ---
 
 ### Game Screen
 
-![Game Screen 1](screenshots/game-screen-1.png)
+![Game Screen 1](screenshots/game-screen-1.PNG)
 
 ---
 
 ### Gameplay
 
-![Game Screen 2](screenshots/game-screen-2.png)
+![Game Screen 2](screenshots/game-screen-2.PNG)
 
 ---
 
 ### Score Screen
 
-![Score Screen](screenshots/score-screen.png)
+![Score Screen](screenshots/score-screen.PNG)
 
 ## 🛠 Technology Stack
 
 - **Language:** Java
 - **UI:** Java Swing & AWT
 
-## 📂 File Structure
 
 ## 📂 Project Structure
 
